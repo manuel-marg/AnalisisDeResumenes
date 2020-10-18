@@ -1,0 +1,2 @@
+# AnalisisDeResumenes
+Hash Table
